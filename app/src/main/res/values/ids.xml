@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnWhatsApp" type="id" />
+    <item name="imageProduto" type="id" />
+    <item name="textDescricao" type="id" />
+    <item name="textNome" type="id" />
+</resources>

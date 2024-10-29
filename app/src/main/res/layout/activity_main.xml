@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fund1"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/edemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/edit_text_background"
+        android:hint="Email"
+        android:textColorHint="@color/black"
+        android:inputType="textEmailAddress"
+        android:padding="15dp"
+        android:textColor="@android:color/black"
+
+    android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/edsenha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/edit_text_background"
+        android:hint="Senha"
+        android:textColorHint="@android:color/black"
+        android:inputType="textPassword"
+        android:padding="15dp"
+        android:textColor="@android:color/black"
+
+    android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/btentar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_selector"
+        android:layout_marginTop="20dp"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="Entrar"
+        android:textColor="@android:color/black"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/btcriar_conta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_selector"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:padding="15dp"
+        android:text="Criar Conta"
+        android:textSize="14sp" />
+</LinearLayout>
