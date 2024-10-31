@@ -14,7 +14,7 @@ O App Burger é um aplicativo simples permite aos usuários explorar um cardápi
 
 ## 🚀 Tecnologias Utilizadas
 
-- [x] **Android Studio** (Bumblebee | 2021.1.1)
+- [x] **Android Studio** (Bumblebee | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
 - [x] **RecyclerView** para exibição de lista de produtos
