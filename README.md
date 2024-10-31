@@ -77,7 +77,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ```
 
 
- ## 🖥️ Telas do Aplicativo 1. 
+ ## 🖥️ Telas do Aplicativo. 
 # Tela Principal
 ![image](https://github.com/Cassielbr/AppBurger/raw/master/assets/activity_main.png)
 
