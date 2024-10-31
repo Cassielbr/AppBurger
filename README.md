@@ -2,6 +2,7 @@
 
 
 ## 📱 Descrição
+O App Burger é um aplicativo simples permite aos usuários explorar um cardápio, realizar o cadastro e visualizar detalhes de cada produto.
 
 
 ## 🔧 Funcionalidades
